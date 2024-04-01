@@ -23,3 +23,9 @@ footer{
 main{
     min-height: calc(100vh - 80px);
 }
+.btn-danger{
+    width:30vh;
+}
+#result{
+    min-height: 26vh;
+ }
